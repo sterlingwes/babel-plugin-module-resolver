@@ -1,6 +1,6 @@
 {
-  "name": "babel-plugin-module-resolver",
-  "version": "4.1.0",
+  "name": "@sterlingwes/babel-plugin-module-resolver",
+  "version": "4.1.1",
   "main": "lib/index.js",
   "description": "Module resolver plugin for Babel",
   "repository": {
